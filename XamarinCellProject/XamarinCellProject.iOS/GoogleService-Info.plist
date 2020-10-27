@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950341399955-r493qqaml7f27rfadl6d48vglp9k67ss.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950341399955-r493qqaml7f27rfadl6d48vglp9k67ss</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBm88sbwVYhE1fWhPdXuhmz7geArhpLi5g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950341399955</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anthonyh.XamarinCellProject</string>
+	<key>PROJECT_ID</key>
+	<string>fir-xamarin-1d124</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-xamarin-1d124.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950341399955:ios:9a99f5dcc7d7ef44ba2466</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-xamarin-1d124.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950341399955",
+    "firebase_url": "https://fir-xamarin-1d124.firebaseio.com",
+    "project_id": "fir-xamarin-1d124",
+    "storage_bucket": "fir-xamarin-1d124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950341399955:android:ea6d0393c4d95153ba2466",
+        "android_client_info": {
+          "package_name": "com.anthonyh.XamarinCellProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950341399955-rh7c4uqvquv6i2hnbd64al9g38ufb25u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UqrzxUCGUE3zFVhvpzVrSxKlP2Nmrhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950341399955-rh7c4uqvquv6i2hnbd64al9g38ufb25u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950341399955-r493qqaml7f27rfadl6d48vglp9k67ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anthonyh.XamarinCellProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

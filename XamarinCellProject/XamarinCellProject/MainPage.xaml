@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinCellProject.MainPage"
+             >
+    <RelativeLayout Padding="0" VerticalOptions="Start">
+    <Image
+            Aspect="AspectFill"
+            Source="Dogsmall"
+            RelativeLayout.WidthConstraint= "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+            RelativeLayout.HeightConstraint= "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+    </Image>
+    <!--<Image Source="Dog"  VerticalOptions="CenterAndExpand"/>-->
+
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=.7}">
+
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="End" Padding="40">
+                <Label Text="DISCOUNT PREPAID CELLULAR" HorizontalTextAlignment="Center" HorizontalOptions="Fill" TextColor="Black" FontSize="24" FontFamily="Arial"/>
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="End" RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=.9}">
+            <Button Text="Log In" TextColor="White" HorizontalOptions="FillAndExpand" BackgroundColor="Teal"/>
+            <Button Text="Log Out" TextColor="White" HorizontalOptions="FillAndExpand" BackgroundColor="Blue"/>
+        </StackLayout>
+      
+
+    </StackLayout>
+
+    </RelativeLayout>
+</ContentPage>
